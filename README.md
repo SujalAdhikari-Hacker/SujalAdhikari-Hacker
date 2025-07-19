@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Sujal Adhikari 👋
 
-<!--
-**SujalAdhikari-Hacker/SujalAdhikari-Hacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Cybersecurity & Digital Forensics Enthusiast | SOC Analyst in Training
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+I'm a passionate cybersecurity student from Nepal focused on SOC analysis, penetration testing, and digital forensics. I love solving problems, participating in CTFs, and sharing knowledge.
+
+---
+
+### Skills
+- Network Security & Firewall Management
+- Penetration Testing & Vulnerability Assessment
+- Python, Bash Scripting, Kali Linux
+- SIEM Tools: Wazuh, Splunk, ELK Stack
+- Digital Forensics & Malware Analysis
+
+---
+
+### Projects
+- [CTF Challenge Platform](https://github.com/SujalAdhikari-Hacker/CTF-Challenge) — Beginner friendly CTF for learning cybersecurity basics.
+- [Password Strength Checker](https://github.com/SujalAdhikari-Hacker/Password-Strength-Checker) — Python tool to evaluate password security.
+- [Secure SFTP Server Setup](https://github.com/SujalAdhikari-Hacker/SFTP-Server) — Realistic environment for monitoring & defense learning.
+
+---
+
+### Contact
+- 📧 sujal@example.com  
+- 🔗 [LinkedIn](https://linkedin.com/in/sujaladhikari)  
+- 🌐 [Portfolio](https://sujaladhikari149.com.np)  
+
+---
+
+*“Keep learning, keep growing!”*
