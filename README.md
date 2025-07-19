@@ -25,7 +25,7 @@
 - 🛡️ Aspiring SOC Analyst specializing in SIEM tools, incident response & threat hunting  
 - 💻 Skills: Python, Kali Linux, SOC Operations, Wazuh, Splunk, ELK Stack, Network Security, Digital Forensics, Penetration Testing, OSINT & Cloud Security Basics  
 - 📝 Blogger sharing cybersecurity insights on Medium  
-- 📫 Reach me at: [sujal.adhikari@example.com](mailto:sujal.adhikari@example.com)  
+- 📫 Reach me at: [sujaladhikari149@gmail.com](mailto:sujaladhikari149@gmail.com)  
 
 ---
 
