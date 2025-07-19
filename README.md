@@ -60,7 +60,7 @@
 
 - ✍️ **Cybersecurity Blog**  
   Medium articles breaking down latest cyberattacks, MFA bypasses, and OSINT basics.  
-  [![Medium]([https://img.shields.io/badge/Read-Blog-black?style=flat-square&logo=medium](https://medium.com/@sujal2.adhikari))](https://medium.com/@sujaladhikari)
+  [![Medium](https://img.shields.io/badge/Read-Blog-black?style=flat-square&logo=medium)]([https://medium.com/@sujaladhikari](https://medium.com/@sujal2.adhikari))
 
 ---
 
