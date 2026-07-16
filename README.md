@@ -84,7 +84,7 @@
   <a href="https://sujaladhikari149.com.np" target="_blank" aria-label="Portfolio">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white&animation=fade" alt="Portfolio"/>
   </a>
-  <a href="mailto:sujaladhikari149@gmail.com" aria-label="Email">
+  <a href="mailto:adhikarisujal281@gmail.com" aria-label="Email">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&animation=fade" alt="Email"/>
   </a>
 </p>
