@@ -1,14 +1,9 @@
-<!--
-  GitHub Profile README for Sujal Adhikari with animation & clean style
--->
-
 <h1 align="center">
   Hi 👋, I'm <b>Sujal Adhikari</b>
 </h1>
 
 <p align="center">
-  <!-- Animated typing effect for bio (using GitHub Actions snippet) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=FFFFFF&width=600&lines=Cybersecurity+%26+Digital+Forensics+Enthusiast;SOC+Analyst+in+Training;Passionate+about+Ethical+Hacking+%26+Incident+Response" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=FFFFFF&width=600&lines=Cybersecurity+%26+Digital+Forensics+Enthusiast;SOC+Analyst+in+Training;CTF+Platform+Operator;Open+Source+Threat+Intelligence" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -19,79 +14,103 @@
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🎓 President, Cybersecurity Club at The British College  
-- 🛡️ Aspiring SOC Analyst specializing in SIEM tools, incident response & threat hunting  
-- 💻 Skills: Python, Kali Linux, SOC Operations, Wazuh, Splunk, ELK Stack, Network Security, Digital Forensics, Penetration Testing, OSINT & Cloud Security Basics  
-- 📝 Blogger sharing cybersecurity insights on Medium  
-- 📫 Reach me at: [adhikarisujal281@gmail.com](mailto:adhikarisujal281@gmail.com)  
+- 🎓 Final-year Cybersecurity student at **British College / University of the West of England (UWE)**
+- 🏆 **President**, Cybersecurity Club at The British College
+- 🚀 Founder & Operator of **Himalayan HackRange** — a CTFd platform on Azure
+- 🕵️ Hands-on **Threat Intelligence** — manual OSINT investigations using VirusTotal, AbuseIPDB, CleanTalk
+- 🛡️ Skills: SOC Operations, SIEM (Wazuh, Splunk, ELK), Incident Response, Digital Forensics, Penetration Testing, OSINT, Cloud Security (Azure)
+- ✍️ Blogging cybersecurity investigations on **Medium**
+- 📫 Reach me at: [adhikarisujal281@gmail.com](mailto:adhikarisujal281@gmail.com)
+- 🌐 Portfolio: [sujaladhikari149.com.np](https://sujaladhikari149.com.np)
 
 ---
 
 ## 🛠️ Skills & Technologies
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&animation=fade" alt="Python" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white&animation=fade" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/SOC-101010?style=for-the-badge&logo=securityscorecard&logoColor=white&animation=fade" alt="SOC" />
-  <img src="https://img.shields.io/badge/SIEM-Wazuh-3C8DBC?style=for-the-badge&logo=wazuh&logoColor=white&animation=fade" alt="Wazuh" />
-  <img src="https://img.shields.io/badge/Splunk-DC5034?style=for-the-badge&logo=splunk&logoColor=white&animation=fade" alt="Splunk" />
-  <img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white&animation=fade" alt="ELK Stack" />
-  <img src="https://img.shields.io/badge/Network_Security-0078D7?style=for-the-badge&logo=cisco&logoColor=white&animation=fade" alt="Network Security" />
-  <img src="https://img.shields.io/badge/Digital_Forensics-008080?style=for-the-badge&logo=forensics&logoColor=white&animation=fade" alt="Digital Forensics" />
-  <img src="https://img.shields.io/badge/Incident_Response-FF4500?style=for-the-badge&logo=incidentresponse&logoColor=white&animation=fade" alt="Incident Response" />
-  <img src="https://img.shields.io/badge/Penetration_Testing-191919?style=for-the-badge&logo=penetrationtesting&logoColor=white&animation=fade" alt="Penetration Testing" />
-  <img src="https://img.shields.io/badge/OSINT-4B0082?style=for-the-badge&logo=osint&logoColor=white&animation=fade" alt="OSINT" />
-  <img src="https://img.shields.io/badge/Cloud_Basics-007ACC?style=for-the-badge&logo=azure&logoColor=white&animation=fade" alt="Cloud Security Basics" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Wazuh-3C8DBC?style=for-the-badge&logo=wazuh&logoColor=white" alt="Wazuh" />
+  <img src="https://img.shields.io/badge/Splunk-DC5034?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk" />
+  <img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white" alt="ELK Stack" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white" alt="VirusTotal" />
+  <img src="https://img.shields.io/badge/AbuseIPDB-FF4500?style=for-the-badge&logo=abuseipdb&logoColor=white" alt="AbuseIPDB" />
+  <img src="https://img.shields.io/badge/Nmap-004E8C?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
 ---
 
-## 🔥 Projects & Highlights
+## 📌 Featured Project: HHR Bot Investigation
 
-- 🔰 **Beginner-Friendly CTF Platform**  
-  A Capture The Flag website covering brute force, cryptography, XSS, steganography, and more.  
-  [![GitHub Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/SujalAdhikari-Hacker)
+**What started as deleting spam accounts turned into a full threat intelligence investigation.**
 
-- 🛡️ **SOC & SIEM Lab Setup**  
-  Hands-on SOC monitoring projects using Wazuh & ELK stack to simulate real-world threat detection.  
-  [![GitHub Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/SujalAdhikari-Hacker)
+In July 2026, my CTF platform was hit by 18 automated bot registrations across 13 unique IPs. I extracted the data from MariaDB, manually investigated every IP through VirusTotal, AbuseIPDB, CleanTalk, and Stop Forum Spam — and uncovered infrastructure spanning two providers, three countries, with connections to Remcos RAT C2 servers and a commercial VLESS proxy network.
 
-- ✍️ **Cybersecurity Blog**  
-  Medium articles breaking down latest cyberattacks, MFA bypasses, and OSINT basics.  
-  [![Medium](https://img.shields.io/badge/Read-Blog-black?style=flat-square&logo=medium)](https://medium.com/@sujal2.adhikari)
+| Finding | Detail |
+|---------|--------|
+| Bot Accounts | 18 |
+| Unique Bot IPs | 13 |
+| Total AbuseIPDB Reports | 4,232+ |
+| Providers Mapped | HostPapa (AS36352) + Fiba Cloud (AS44382) |
+| Malware Link | Remcos RAT C2 on 216.9.225.163 |
+| Proxy Infrastructure | VLESS node on 155.103.69.33 |
 
----
-
-## 🏆 Certifications & Awards
-
-- EC-Council Certified Cybersecurity Technician (In progress)  
-- President, Cybersecurity Club at The British College  
-- Multiple participation awards in cybersecurity competitions & CTFs  
+📄 [Read the Full Investigation](https://medium.com/@sujal2.adhikari/investigating-automated-bot-registrations-on-my-ctf-platform-from-spam-bots-to-remcos-rat-660fdbefc7b2)  
+💾 [GitHub Repository — IOCs, Reports, Excel Workbook](https://github.com/SujalAdhikari-Hacker/hhr-bot-investigation)
 
 ---
 
-## 📫 Connect with Me
+## 🔭 Other Projects
+
+- 🏁 **Himalayan HackRange CTF** — A CTFd platform on Azure Docker with challenges spanning brute force, cryptography, XSS, and steganography
+- 🖥️ **SOC & SIEM Lab** — Hands-on detection lab using Wazuh and ELK Stack for simulated threat scenarios
+- 🧪 **Network Security Labs** — Packet analysis, firewall configurations, and intrusion detection experiments
+
+---
+
+## 📰 Latest Medium Articles
+
+- [Investigating Automated Bot Registrations on My CTF Platform](https://medium.com/@sujal2.adhikari/investigating-automated-bot-registrations-on-my-ctf-platform-from-spam-bots-to-remcos-rat-660fdbefc7b2)
+
+---
+
+## 📜 Certifications
+
+- 🟢 **EC-Council Certified Cybersecurity Technician** (In Progress)
+- 🏆 **President**, Cybersecurity Club, The British College
+- 🥇 Multiple CTF competition participations
+
+---
+
+## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/sujaladhikari" target="_blank" aria-label="LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&animation=fade" alt="LinkedIn"/>
+  <a href="https://linkedin.com/in/sujaladhikari" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/SujalAdhikari-Hacker" target="_blank" aria-label="GitHub">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&animation=fade" alt="GitHub"/>
+  <a href="https://github.com/SujalAdhikari-Hacker" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://sujaladhikari149.com.np" target="_blank" aria-label="Portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white&animation=fade" alt="Portfolio"/>
+  <a href="https://medium.com/@sujal2.adhikari" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
-  <a href="mailto:adhikarisujal281@gmail.com" aria-label="Email">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&animation=fade" alt="Email"/>
+  <a href="https://sujaladhikari149.com.np" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:adhikarisujal281@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 ---
 
-## 📈 GitHub Stats & Visitor Count
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SujalAdhikari-Hacker&theme=dark" alt="GitHub Streak" />
@@ -107,6 +126,4 @@
   <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="180" alt="Hacker animation"/>
 </p>
 
----
-
-<p align="center"><i>Thanks for visiting! Let’s connect and collaborate 🚀</i></p>
+<p align="center"><i>Thanks for visiting! Let's connect and collaborate 🚀</i></p>
